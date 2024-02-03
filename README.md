@@ -63,11 +63,3 @@ g++ main.cpp -o tsp_solver
 ```
 
 Coordinates in parentheses represent the positions of cities in a two-dimensional space.
-
-## Contributions
-
-Contributions and improvements are welcome. Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
